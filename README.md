@@ -1,1 +1,1 @@
-The scripts are designed only for demonstration purpose. Additional features can be added such as random decorations, boss rooms, secret rooms, etc.
+These scripts are intended solely for demonstration purposes. Additional features, such as random decorations, boss rooms, secret rooms, and more, can be added.
